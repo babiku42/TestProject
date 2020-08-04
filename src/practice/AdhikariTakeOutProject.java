@@ -95,7 +95,7 @@ public class AdhikariTakeOutProject {
 		int menuChoice = input.nextInt();
 		int menuChoosed = 0 ;
 		
-		switch (menuChoice) { if
+		switch (menuChoice) { 
 		case 1:
 			displayItalianFoodMenu();
 			menuChoosed = 1;
